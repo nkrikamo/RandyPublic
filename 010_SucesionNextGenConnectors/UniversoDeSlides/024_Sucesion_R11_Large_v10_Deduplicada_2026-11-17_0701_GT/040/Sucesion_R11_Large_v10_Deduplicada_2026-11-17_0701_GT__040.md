@@ -16,7 +16,7 @@
 ## Juicio de Sammy (no es veredicto de Randy)
 
 - **Imagen:** 3 · La cuadrícula blanca y azul es limpia, pero las seis cajas vacías sirven más como plantilla editable que como slide proyectado; amplía rótulos y muestra un ejemplo si se proyecta.
-- **Locución:** None · El TXT no contiene locución. Conserva el silencio si se ofrece como plantilla; no inventes voz.
+- **Locución:** El TXT no contiene locución. Conserva el silencio si se ofrece como plantilla; no inventes voz.
 - **Referencia alternativa:** No encontré una alternativa mejor verificada.
 
 ## Voz en off
