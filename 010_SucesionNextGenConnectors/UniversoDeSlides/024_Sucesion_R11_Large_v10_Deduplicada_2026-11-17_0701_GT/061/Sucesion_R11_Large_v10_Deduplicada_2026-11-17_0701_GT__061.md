@@ -16,7 +16,7 @@
 ## Juicio de Sammy (no es veredicto de Randy)
 
 - **Imagen:** 2 · Repite «Integrar» y el gran bloque verde rompe el ritmo de la serie. Conserva una sola frase de título y simplifica el fondo y los símbolos.
-- **Locución:** None · El TXT no contiene locución. Mantén el silencio si se conserva como separador.
+- **Locución:** El TXT no contiene locución. Mantén el silencio si se conserva como separador.
 - **Referencia alternativa:** No encontré una alternativa mejor verificada.
 
 ## Voz en off
