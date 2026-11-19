@@ -1,6 +1,6 @@
 # Lámina 076 · ID PPT 284
 
-![Miniatura de la lámina 076](./Sucesion_R11_Large_v10_Deduplicada_2026-11-17_0701_GT__076.png)
+![Miniatura de la lámina 076](../075/Sucesion_R11_Large_v10_Deduplicada_2026-11-17_0701_GT__075.png)
 
 ## Trazabilidad
 
@@ -9,7 +9,7 @@
 - Procedencia de la miniatura: Exportada desde una copia con las láminas ocultas incluidas; el XML fuente no se alteró.
 - Procedencia de la locución: Notas del XML; esta lámina no estaba en el TXT de las visibles.
 - Posición física: **076**; ID nativo: **284**.
-- Archivo de imagen: `Sucesion_R11_Large_v10_Deduplicada_2026-11-17_0701_GT__076.png` (640 × 360).
+- Archivo de imagen: [miniatura maestra](../075/Sucesion_R11_Large_v10_Deduplicada_2026-11-17_0701_GT__075.png) (640 × 360).
 - SHA-256 del PNG: `009a12fd3d14550279aa039d8d710aea9898fe73a289d1d7421f681f1de37267`.
 - Estado: **oculta en el XML; marcado para eliminar**.
 

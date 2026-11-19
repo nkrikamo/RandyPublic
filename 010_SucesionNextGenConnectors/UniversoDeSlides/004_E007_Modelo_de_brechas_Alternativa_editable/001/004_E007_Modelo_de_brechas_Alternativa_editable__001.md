@@ -7,7 +7,7 @@
 - SHA-256 PPTX: `8721d2f96122e5f78e747ae0c4a94f2aaa2f2d59c542abe0645b0b1953422f8f`
 - Posición física: **001** de 001; ID nativo: **292**.
 - Estado original: visible; no marcado para eliminar.
-- PNG: `004_E007_Modelo_de_brechas_Alternativa_editable__001.png` · 640 × 360 · RGB · 640 px de ancho.
+- PNG: [miniatura maestra](../004_E007_Modelo_de_brechas_Alternativa_editable__001.png) · 640 × 360 · RGB · 640 px de ancho.
 - Procedencia PNG: miniatura ya publicada por Sammy; reutilización exacta sin nueva exportación.
 - SHA-256 PNG: `89619ef99f534481efad1d59608e9408ffa2fecaf5f746527e90c17f8ee761d6`
 - Git blob original: `b893da16fbb89d46579f151190ac404f5878bafa` (copia exacta de bytes).
