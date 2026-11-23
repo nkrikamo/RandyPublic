@@ -1,0 +1,3 @@
+# AGENTS · UniversoDeSlides
+
+Comenzar por [README](README.md) → presentación → posición física `NNN` → `<presentación>__NNN.md` y PNG homónimo. Conservar tres dígitos incluyendo ocultas. El ID editorial pertenece a Randy y se extrae solo de notas al orador; el ID nativo es técnico y nunca sustituye al editorial. La extracción, las decisiones visuales y las aprobaciones son entidades diferentes. No reconstruir ni reimportar PNG retirados. No publicar imagen ni voz de una posición oculta. No convertir archivos preparados localmente en enlaces publicados hasta comprobar el commit y los bytes. Método: https://github.com/nkrikamo/FF_HA_obsidian-vault/blob/main/!!/Prompts_Sucesion_2026-11-17/150_Parear_Imagen_y_Voz_de_Sucesion.md
