@@ -4,6 +4,17 @@ Montaje de rescates · pendiente de conciliación. Las propuestas fueron aprobad
 
 ![008 · ID 263 · montaje de rescates](https://raw.githubusercontent.com/nkrikamo/RandyPublic/main/010_SucesionNextGenConnectors/UniversoDeSlides/069_Sucesion_R13_Rescates_aprobados_PENDIENTE_CONCILIACION/008/R13_Rescates_aprobados_73e337f3__008.png)
 
+## Actualización vigente · Decisión036 · 2026-11-23
+
+Randy conserva PROGRAMA007 en R13B y traslada únicamente el puente a **R13B Addendum, posición021**, sin textos ni locución, para reutilización. El puente fue retirado de esta diapositiva donante. Se preservan su texto, su locución y los demás elementos; el fondo de sustitución es azul sólido `#010349`, tomado del fondo del recurso original.
+
+- PPT donante actualizada sobre la misma identidad: versión 8; SHA-256 `a531c16f5598640bf477b4cbaab7d168c3b3b91d10353180ba23a98f62ec1c9a`.
+- Posición de esta diapositiva: 008; la posición no sustituye un ID editorial. No se asigna un ID editorial nuevo.
+- PNG actual: render de la PPT sin el puente, 640 × 360 px; SHA-256 `e25840862ac79b5dca51cb87d0cf43fa3d48aa53ef976d3f4761ff2be8387c86`. Nombre y URL conservados para evitar copias activas y enlaces rotos. El segmento `73e337f3`, cuando aparece en el nombre, identifica el linaje de publicación original, no el hash de la PPT actual.
+- Exportación actual: LibreOffice → PDF → PNG; reducción Lanczos a 640 × 360, RGB. Comprobación técnica, sin nueva aprobación editorial del diseño donante.
+- La trazabilidad y los juicios anteriores se conservan abajo como historial. Sus hashes, versiones y comentarios visuales describen la imagen anterior; no son los valores ni el veredicto de este PNG actualizado. La voz literal no cambia.
+- Recuperación: versiones anteriores de la PPT y commit público anterior `e7cdb79241970628b828f956bafa0b2f87f01602`. No se mantiene otra copia activa del puente en este archivo.
+
 ## Voz en off literal
 
 El colaborador que designes como sucesor será el principal responsable de su propio desarrollo. Le corresponde aceptar la iniciativa y comprometerse con su aprendizaje, sabiendo que requerirá dedicarle esfuerzo, tiempo y otros recursos.

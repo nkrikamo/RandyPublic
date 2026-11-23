@@ -1,5 +1,16 @@
 # R12 · diapositiva 004
 
+## Actualización vigente · Decisión036 · 2026-11-23
+
+Randy conserva PROGRAMA007 en R13B y traslada únicamente el puente a **R13B Addendum, posición021**, sin textos ni locución, para reutilización. El puente fue retirado de esta diapositiva donante. Se preservan su texto, su locución y los demás elementos; el fondo de sustitución es azul sólido `#010349`, tomado del fondo del recurso original.
+
+- PPT donante actualizada sobre la misma identidad: versión 9; SHA-256 `36777ceb4a82d11dd99ce22676d0d0db59c26917da59b59c6bf22159389eb551`.
+- Posición de esta diapositiva: 004; la posición no sustituye un ID editorial. No se asigna un ID editorial nuevo.
+- PNG actual: render de la PPT sin el puente, 640 × 360 px; SHA-256 `2d50f9ed21f87bd8d9019ff1567e6abe06e8afe9ea4a1f300996ebbb2545ae8c`. Nombre y URL conservados para evitar copias activas y enlaces rotos. El segmento `73e337f3`, cuando aparece en el nombre, identifica el linaje de publicación original, no el hash de la PPT actual.
+- Exportación actual: LibreOffice → PDF → PNG; reducción Lanczos a 640 × 360, RGB. Comprobación técnica, sin nueva aprobación editorial del diseño donante.
+- La trazabilidad y los juicios anteriores se conservan abajo como historial. Sus hashes, versiones y comentarios visuales describen la imagen anterior; no son los valores ni el veredicto de este PNG actualizado. La voz literal no cambia.
+- Recuperación: versiones anteriores de la PPT y commit público anterior `e7cdb79241970628b828f956bafa0b2f87f01602`. No se mantiene otra copia activa del puente en este archivo.
+
 ## Voz en off literal
 
 Estos beneficios son el fruto de la sinergia entre los roles que debe asumir cada uno en el programa de Next Gen.

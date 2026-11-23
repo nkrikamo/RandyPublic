@@ -1,4 +1,10 @@
 # Rescates de R12 para R13 · montaje pendiente de conciliación
+## Vigente · Decisión036 · 2026-11-23
+
+PROGRAMA007 se conserva en R13B. El puente se trasladó sin textos ni locución a **R13B Addendum021** y se retiró de Rescates007/008 y de R12004. Las miniaturas007 y008 de este índice muestran ahora las mismas diapositivas sin el puente; textos y locuciones se conservan. El contact007 cerrado se retiró de la rama activa, con recuperación en Git. No se publica otra copia del puente.
+
+Las tablas, hashes globales y juicios de la publicación original siguientes son historial; las fichas007/008 y las entradas correspondientes del manifiesto incluyen los hashes actuales y la actualización parcial. Esto no vuelve a aprobar las propuestas restantes.
+
 
 **31 láminas compuestas y 9 capas obtenidas mediante edición generativa**, publicadas como PNG con su Markdown del mismo nombre base. No son 31 ilustraciones nuevas generadas por IA.
 

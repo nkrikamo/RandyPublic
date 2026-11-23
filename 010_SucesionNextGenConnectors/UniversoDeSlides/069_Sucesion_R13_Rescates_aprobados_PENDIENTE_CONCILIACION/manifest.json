@@ -89,16 +89,30 @@
       "relative_path": "007/R13_Rescates_aprobados_73e337f3__007.png",
       "repository_path": "010_SucesionNextGenConnectors/UniversoDeSlides/069_Sucesion_R13_Rescates_aprobados_PENDIENTE_CONCILIACION/007/R13_Rescates_aprobados_73e337f3__007.png",
       "raw_url": "https://raw.githubusercontent.com/nkrikamo/RandyPublic/main/010_SucesionNextGenConnectors/UniversoDeSlides/069_Sucesion_R13_Rescates_aprobados_PENDIENTE_CONCILIACION/007/R13_Rescates_aprobados_73e337f3__007.png",
-      "sha256": "7eeb75a1e35e98fd82d1d0309221de47d71c92db9da79d460e9487fd3f9e4bf6",
-      "git_blob_sha": "0b82d4fc03bc373f68bbe0f0eef0672b1113f62d",
-      "source_sha256": "51ee0d102eaccf3185ac66e1d099b8f1340a60d33bdf227d803112628c8f2803",
-      "bytes": 155815,
+      "sha256": "c2f4191c4a836385da6a04cd69ccad10b2e4f66b34789b0ca25d07ceb2672f6f",
+      "git_blob_sha": "4fb2adc90f408f3b09b98da01fe3e5921c7b92b9",
+      "source_sha256": "a531c16f5598640bf477b4cbaab7d168c3b3b91d10353180ba23a98f62ec1c9a",
+      "bytes": 41543,
       "width": 640,
       "height": 360,
       "channels": 3,
       "transparency": false,
       "md_repository_path": "010_SucesionNextGenConnectors/UniversoDeSlides/069_Sucesion_R13_Rescates_aprobados_PENDIENTE_CONCILIACION/007/R13_Rescates_aprobados_73e337f3__007.md",
-      "md_url": "https://github.com/nkrikamo/RandyPublic/blob/main/010_SucesionNextGenConnectors/UniversoDeSlides/069_Sucesion_R13_Rescates_aprobados_PENDIENTE_CONCILIACION/007/R13_Rescates_aprobados_73e337f3__007.md"
+      "md_url": "https://github.com/nkrikamo/RandyPublic/blob/main/010_SucesionNextGenConnectors/UniversoDeSlides/069_Sucesion_R13_Rescates_aprobados_PENDIENTE_CONCILIACION/007/R13_Rescates_aprobados_73e337f3__007.md",
+      "history": [
+        {
+          "sha256": "7eeb75a1e35e98fd82d1d0309221de47d71c92db9da79d460e9487fd3f9e4bf6",
+          "git_blob_sha": "0b82d4fc03bc373f68bbe0f0eef0672b1113f62d",
+          "source_sha256": "51ee0d102eaccf3185ac66e1d099b8f1340a60d33bdf227d803112628c8f2803",
+          "bytes": 155815,
+          "status": "superseded_D036",
+          "commit": "e7cdb79241970628b828f956bafa0b2f87f01602"
+        }
+      ],
+      "source_sha256_kind": "pptx",
+      "source_library_version": 8,
+      "partial_update_decision": "036",
+      "status": "bridge_removed_text_and_voice_preserved"
     },
     {
       "kind": "slide",
@@ -114,16 +128,30 @@
       "relative_path": "008/R13_Rescates_aprobados_73e337f3__008.png",
       "repository_path": "010_SucesionNextGenConnectors/UniversoDeSlides/069_Sucesion_R13_Rescates_aprobados_PENDIENTE_CONCILIACION/008/R13_Rescates_aprobados_73e337f3__008.png",
       "raw_url": "https://raw.githubusercontent.com/nkrikamo/RandyPublic/main/010_SucesionNextGenConnectors/UniversoDeSlides/069_Sucesion_R13_Rescates_aprobados_PENDIENTE_CONCILIACION/008/R13_Rescates_aprobados_73e337f3__008.png",
-      "sha256": "b2643fd88a7fb56fc55064c6156188c7fc6c766d33e0e45166f18d653090e0cf",
-      "git_blob_sha": "acce5556d510f888f0507fd53b3e27e1d4170591",
-      "source_sha256": "8899e332b9738caea357264e8ea90cc840602c971e56a845c7e78158a05f0341",
-      "bytes": 162809,
+      "sha256": "e25840862ac79b5dca51cb87d0cf43fa3d48aa53ef976d3f4761ff2be8387c86",
+      "git_blob_sha": "63120d33180919bf8cca788a6510d48ac891c40d",
+      "source_sha256": "a531c16f5598640bf477b4cbaab7d168c3b3b91d10353180ba23a98f62ec1c9a",
+      "bytes": 49178,
       "width": 640,
       "height": 360,
       "channels": 3,
       "transparency": false,
       "md_repository_path": "010_SucesionNextGenConnectors/UniversoDeSlides/069_Sucesion_R13_Rescates_aprobados_PENDIENTE_CONCILIACION/008/R13_Rescates_aprobados_73e337f3__008.md",
-      "md_url": "https://github.com/nkrikamo/RandyPublic/blob/main/010_SucesionNextGenConnectors/UniversoDeSlides/069_Sucesion_R13_Rescates_aprobados_PENDIENTE_CONCILIACION/008/R13_Rescates_aprobados_73e337f3__008.md"
+      "md_url": "https://github.com/nkrikamo/RandyPublic/blob/main/010_SucesionNextGenConnectors/UniversoDeSlides/069_Sucesion_R13_Rescates_aprobados_PENDIENTE_CONCILIACION/008/R13_Rescates_aprobados_73e337f3__008.md",
+      "history": [
+        {
+          "sha256": "b2643fd88a7fb56fc55064c6156188c7fc6c766d33e0e45166f18d653090e0cf",
+          "git_blob_sha": "acce5556d510f888f0507fd53b3e27e1d4170591",
+          "source_sha256": "8899e332b9738caea357264e8ea90cc840602c971e56a845c7e78158a05f0341",
+          "bytes": 162809,
+          "status": "superseded_D036",
+          "commit": "e7cdb79241970628b828f956bafa0b2f87f01602"
+        }
+      ],
+      "source_sha256_kind": "pptx",
+      "source_library_version": 8,
+      "partial_update_decision": "036",
+      "status": "bridge_removed_text_and_voice_preserved"
     },
     {
       "kind": "slide",
@@ -1344,6 +1372,23 @@
       "author": "Sammy",
       "action_executed": false
     }
+  ],
+  "partial_updates": [
+    {
+      "decision": "036",
+      "date": "2026-11-23",
+      "action": "bridge_asset_moved_and_removed_from_donors",
+      "bridge_sha256": "c21d2c177a63449a7499ffb931203dff7941f873b8d35918c6e7717bd8e2810a",
+      "canonical_destination": "R13B Addendum, posición021; solo fragmento gráfico, sin textos ni locución",
+      "preserved_program": "R13B, posición007",
+      "source_versions": {
+        "Rescates": 8,
+        "R12": 9
+      },
+      "previous_public_commit": "e7cdb79241970628b828f956bafa0b2f87f01602",
+      "removed_active_contact": "010_SucesionNextGenConnectors/UniversoDeSlides/069_Sucesion_R13_Rescates_aprobados_PENDIENTE_CONCILIACION/007/CONTACT_PREVIO_PROGRAMA_R13B_007_20261122.jpg",
+      "voice_changed": false,
+      "scope": "Tres PNG actualizados en sus mismas rutas; arte del puente retirado, textos y otros recursos preservados. El resto del manifiesto mantiene la publicación histórica."
+    }
   ]
 }
-
