@@ -2,6 +2,7 @@
 
 ## Presentaciones canónicas
 
+- [R15-ConJorge v6 · 66 posiciones, 63 miniaturas y 3 ocultas](Sucesion_R15-ConJorge/README.md)
 - [R13B v54 · índice de 56 posiciones](Sucesion_R13B/README.md)
 - [R13B Addendum v2 · índice de 20 posiciones](R13B_Addendum/README.md)
 
