@@ -4,6 +4,8 @@
 
 [Índice de revisiones exportadas](REVISIONES_EXPORTADAS.md).
 
+- [NextGen R12 v9](NextGen_R12_v9/README.md) · 69 miniaturas de 72 posiciones.
+- [Sucesion R13 v11](Sucesion_R13_v11/README.md) · 47 miniaturas de 47 posiciones.
 - [Sucesion R13B v63](Sucesion_R13B_v63/README.md) · 53 miniaturas de 56 posiciones.
 - [R13B Addendum v7](R13B_Addendum_v7/README.md) · 20 miniaturas de 21 posiciones.
 - [Sucesion R14 v2](Sucesion_R14_v2/README.md) · 34 miniaturas de 39 posiciones.

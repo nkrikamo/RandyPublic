@@ -1,0 +1,895 @@
+{
+  "counts": {
+    "excluded": 0,
+    "hidden": 0,
+    "images": 51,
+    "physical": 51,
+    "reused_png": 50,
+    "stored_png": 1,
+    "visible": 51
+  },
+  "exporter": {
+    "dm_sans_in_pdf": true,
+    "dm_sans_resolution": "DM Sans,DM Sans 9pt",
+    "fonts_sha256": {
+      "DMSans-italic-variable.ttf": "22259c0cc8237221b80f44c76ba8d36e6bce3cda72779f5b2773643d499720ae",
+      "DMSans-variable.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d"
+    },
+    "libreoffice": "LibreOfficeDev 26.8.0.0.alpha0 2c87e51eeaa2b413ff4ae097b2705eea1995d8e5",
+    "pipeline": "LibreOffice Impress (sin ocultas ni notas) → PDF → Poppler PNG RGB 640 px",
+    "poppler": "pdftoppm version 26.05.0"
+  },
+  "presentation": "Sucesion_R13B_v28",
+  "revision": "v28",
+  "schema": 1,
+  "slides": [
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-001",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/001/Sucesion_R13B_v15__001.png",
+        "sha256": "01d8e7dd23ef4d270b8097a4365a96785795536c80dc96885e84642ce75fc508",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "001/Sucesion_R13B_v28__001.md",
+      "position": 1,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-002",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/002/Sucesion_R13B_v15__002.png",
+        "sha256": "28431a31309fbdb9fa9e92b991a271f7a6badb3867563bea379a6761315c8b53",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "002/Sucesion_R13B_v28__002.md",
+      "position": 2,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-003",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/003/Sucesion_R13B_v15__003.png",
+        "sha256": "c88a60b3535578f887470421d81db62aabe1851f0cfb760d56a2421659fd53f8",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "003/Sucesion_R13B_v28__003.md",
+      "position": 3,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-004",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/004/Sucesion_R13B_v15__004.png",
+        "sha256": "cb126dbddacd36684d81b5136af62c744cf8840a00733f471ae85f0653dbd93a",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "004/Sucesion_R13B_v28__004.md",
+      "position": 4,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-005",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/005/Sucesion_R13B_v15__005.png",
+        "sha256": "aaf13d8284c3c36c71df568eefd199f7b6bb96af28ba0ac638df3dffc185b652",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "005/Sucesion_R13B_v28__005.md",
+      "position": 5,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-006",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/006/Sucesion_R13B_v15__006.png",
+        "sha256": "b8159ebf70b77facd2a4e58d7ebf815c3769dc614bf252621c02fd442884ed31",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "006/Sucesion_R13B_v28__006.md",
+      "position": 6,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-007",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/007/Sucesion_R13B_v15__007.png",
+        "sha256": "af2ae877bd53c03ed0ab717f405711a7c1c2e44ef83a905ee8c540554d7bc849",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "007/Sucesion_R13B_v28__007.md",
+      "position": 7,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-008",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/008/Sucesion_R13B_v15__008.png",
+        "sha256": "6dd898dd7fdd94e0c2cfcb9dbf5882809f4ee5a7e142d5068a7e0b67d46b6913",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "008/Sucesion_R13B_v28__008.md",
+      "position": 8,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-009",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/009/Sucesion_R13B_v15__009.png",
+        "sha256": "31f827f16c6abad682ba0446f46e19d89de72e8f06e209e3a66ca171a8063765",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "009/Sucesion_R13B_v28__009.md",
+      "position": 9,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-010",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/010/Sucesion_R13B_v15__010.png",
+        "sha256": "3278b8e491f4cce7879938173da19c5a6bd1f2c0e24328a66f6fa3e53f670af4",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "010/Sucesion_R13B_v28__010.md",
+      "position": 10,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-011",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/011/Sucesion_R13B_v15__011.png",
+        "sha256": "2247ddb9da25d20412eab55b84580b98650310f56797ad0231611794ecc963b6",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "011/Sucesion_R13B_v28__011.md",
+      "position": 11,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-012",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R15-ConJorge/012/Sucesion_R15-ConJorge__012.png",
+        "sha256": "9780cc7335f99ab6bbc6a06b35bb91b121001e8224e2dbc5597d65ea1988f23b",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "012/Sucesion_R13B_v28__012.md",
+      "position": 12,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-013",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/013/Sucesion_R13B_v15__013.png",
+        "sha256": "1b59f5968e918244731b15b756b6cee4f5e2e89fc7262f6bca82af78c472304f",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "013/Sucesion_R13B_v28__013.md",
+      "position": 13,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-014",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/014/Sucesion_R13B_v15__014.png",
+        "sha256": "bdc5039b55275dae687c5b6bf4f294da9bcc50fdd1f50c1ce9bf18c5ac9efcdb",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "014/Sucesion_R13B_v28__014.md",
+      "position": 14,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-015",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/015/Sucesion_R13B_v15__015.png",
+        "sha256": "62bb11f60251b8099ffd1d6ed83524f024ba7a69f5f3bfe9f8f8dd77d0fe601f",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "015/Sucesion_R13B_v28__015.md",
+      "position": 15,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-016",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R15-ConJorge/018/Sucesion_R15-ConJorge__018.png",
+        "sha256": "2d3002772f1cd38abdd1393af51e36092a0e57764788c140664745f179a3b91b",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "016/Sucesion_R13B_v28__016.md",
+      "position": 16,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-017",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/017/Sucesion_R13B_v15__017.png",
+        "sha256": "60ac4f036418fff17dfecad3e42086746b1af8d1de1521d975571248d9e65274",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "017/Sucesion_R13B_v28__017.md",
+      "position": 17,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-018",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R15-ConJorge/021/Sucesion_R15-ConJorge__021.png",
+        "sha256": "87de3f247f4587092a6846266f28db2abac87c35219c3a707d66b92f3e34be2c",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "018/Sucesion_R13B_v28__018.md",
+      "position": 18,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-019",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/019/Sucesion_R13B_v15__019.png",
+        "sha256": "af3ce15f57c1a133744eb3a2922fc0772f7d74656e2a731478ec6d42f5971c38",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "019/Sucesion_R13B_v28__019.md",
+      "position": 19,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-020",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R15-ConJorge/025/Sucesion_R15-ConJorge__025.png",
+        "sha256": "65910b70949f38647b8cb6cf6b4ed4e5fb8820ab93f6f141ff63e48b32571b33",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "020/Sucesion_R13B_v28__020.md",
+      "position": 20,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-021",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/021/Sucesion_R13B_v15__021.png",
+        "sha256": "609b90455f66e7567cf8b77f4d084cf3f29e35f5ccc4efe3957e34394caeea8d",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "021/Sucesion_R13B_v28__021.md",
+      "position": 21,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-022",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R15-ConJorge/032/Sucesion_R15-ConJorge__032.png",
+        "sha256": "8c3abb978716299187f7929c1f0b29a5452adfa22b4d18b62806f16016be8f14",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "022/Sucesion_R13B_v28__022.md",
+      "position": 22,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-023",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R15-ConJorge/033/Sucesion_R15-ConJorge__033.png",
+        "sha256": "89e51e3765fe9b655b60cba77a5745c02dbc767263a7f28bb514c936ded4e683",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "023/Sucesion_R13B_v28__023.md",
+      "position": 23,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-024",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R15-ConJorge/034/Sucesion_R15-ConJorge__034.png",
+        "sha256": "b9e087004f79db10f77c0cbb3013b03186c4878ff35abbc385336e87728fc74f",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "024/Sucesion_R13B_v28__024.md",
+      "position": 24,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-025",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v20/025/Sucesion_R13B_v20__025.png",
+        "sha256": "869dc6a8e588d28f678f5952cae47f91937862f30f89b4a18f9ea540f479ae70",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "025/Sucesion_R13B_v28__025.md",
+      "position": 25,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-026",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/026/Sucesion_R13B_v15__026.png",
+        "sha256": "d363aee2981f7de6a40d682a1f4cb2a04b4da24026f940a950a0c28923098d40",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "026/Sucesion_R13B_v28__026.md",
+      "position": 26,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-027",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v25/027/Sucesion_R13B_v25__027.png",
+        "sha256": "483b0b23c3b95270c9cfad6e45570d4ac9f5c0e93fa8df8605131c5781a2e927",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "027/Sucesion_R13B_v28__027.md",
+      "position": 27,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-028",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/028/Sucesion_R13B_v15__028.png",
+        "sha256": "2eedbc6983f6b835f2e1ff7a6ce3daade1224bfeeddcd69b243734536384dfa6",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "028/Sucesion_R13B_v28__028.md",
+      "position": 28,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-029",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R15-ConJorge/041/Sucesion_R15-ConJorge__041.png",
+        "sha256": "b8e88f12aef9150f3e58b7adaa1cc2e24ad07ac9bd9bf11e0d14bf2c878a920d",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "029/Sucesion_R13B_v28__029.md",
+      "position": 29,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-030",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/030/Sucesion_R13B_v15__030.png",
+        "sha256": "af65e87487d8c8d30898871000840290a571cdf615fbb3d6b925d3a2f6a5d342",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "030/Sucesion_R13B_v28__030.md",
+      "position": 30,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-031",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R15-ConJorge/043/Sucesion_R15-ConJorge__043.png",
+        "sha256": "26ed7163baefb79a2bb2aa27696461f24c96b287fb22c9e75fd4805b97b1218e",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "031/Sucesion_R13B_v28__031.md",
+      "position": 31,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-032",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v20/032/Sucesion_R13B_v20__032.png",
+        "sha256": "c3203908d5745111861529a5f4be7193dccdd00dab586db1ae17db97a9363815",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "032/Sucesion_R13B_v28__032.md",
+      "position": 32,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-033",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "033/Sucesion_R13B_v28__033.png",
+        "sha256": "5003f896d2e08fc67e41683991138fb156ac29206ee5018ef7f433dbfe9d0d8a",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "033/Sucesion_R13B_v28__033.md",
+      "position": 33,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-034",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/034/Sucesion_R13B_v15__034.png",
+        "sha256": "60d5e961f4608b978317598cf092f749360e55b2cdc8024cfdec47e80b13e8a3",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "034/Sucesion_R13B_v28__034.md",
+      "position": 34,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-035",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/035/Sucesion_R13B_v15__035.png",
+        "sha256": "adfd9759cc748685e9ad0e8d66c3cc567e68875d6f67e6152a65461d17c9018f",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "035/Sucesion_R13B_v28__035.md",
+      "position": 35,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-036",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/036/Sucesion_R13B_v15__036.png",
+        "sha256": "a7a9c7ffe524df8567565781c98ade627e2f91ec6d1b5efbc8d51ea93ee8c0a2",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "036/Sucesion_R13B_v28__036.md",
+      "position": 36,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-037",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/037/Sucesion_R13B_v15__037.png",
+        "sha256": "a960b30acea095a883653ce621f1b91f495e0d361df9016b09e12bd5c3f3383f",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "037/Sucesion_R13B_v28__037.md",
+      "position": 37,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-038",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/038/Sucesion_R13B_v15__038.png",
+        "sha256": "e9ebf0f16702246cfd320304ed229fc025d1b718167e0cedcfc85709beb2ebdf",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "038/Sucesion_R13B_v28__038.md",
+      "position": 38,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-039",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/039/Sucesion_R13B_v15__039.png",
+        "sha256": "2acd5a42a98b2c4c9b0d058d1e9de5bacc14b01119320ff9eaa1851d2ef5a481",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "039/Sucesion_R13B_v28__039.md",
+      "position": 39,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-040",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/040/Sucesion_R13B_v15__040.png",
+        "sha256": "f6cc4a607c9567b41d342a5b9c5871766d2e0bf3c6969d4ed6003b69eafc44c0",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "040/Sucesion_R13B_v28__040.md",
+      "position": 40,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-041",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/041/Sucesion_R13B_v15__041.png",
+        "sha256": "f226e80281b58a4c1e898be3fa970d369764c1cc1ff8667c04a618e375a75f04",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "041/Sucesion_R13B_v28__041.md",
+      "position": 41,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-042",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/042/Sucesion_R13B_v15__042.png",
+        "sha256": "612dca9b6df611a22da5ff2d7239be672064d3c85b1fd1532111746fb566d834",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "042/Sucesion_R13B_v28__042.md",
+      "position": 42,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-043",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R15-ConJorge/058/Sucesion_R15-ConJorge__058.png",
+        "sha256": "9109153da01510bc4528d368002097ddb6a211c8a8205f72fdf06b985bced114",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "043/Sucesion_R13B_v28__043.md",
+      "position": 43,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-044",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R15-ConJorge/059/Sucesion_R15-ConJorge__059.png",
+        "sha256": "20aba821ed58a26c49e7326cfb91956367cb080c2b4d3ac52bdbdf86691f0fda",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "044/Sucesion_R13B_v28__044.md",
+      "position": 44,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-045",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/045/Sucesion_R13B_v15__045.png",
+        "sha256": "5f5a56fc4afb6da5e7b10094ec2111394929968060cda36cb20dd5b09e7b7661",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "045/Sucesion_R13B_v28__045.md",
+      "position": 45,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-046",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R15-ConJorge/061/Sucesion_R15-ConJorge__061.png",
+        "sha256": "cc3b55d1b78ddbbf9121c2ecdecaf9612f0c4bcf7f316d139801d531a6ca215a",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "046/Sucesion_R13B_v28__046.md",
+      "position": 46,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-047",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R15-ConJorge/062/Sucesion_R15-ConJorge__062.png",
+        "sha256": "b786f06f4694239d0c776079bc1f18dcd4a52044a7fa778b27938d0eb27d4b08",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "047/Sucesion_R13B_v28__047.md",
+      "position": 47,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-048",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/048/Sucesion_R13B_v15__048.png",
+        "sha256": "e74742555f75d8e8e604584fce3b704ea64ecaea8c45002bcebdc8e382e2b893",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "048/Sucesion_R13B_v28__048.md",
+      "position": 48,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-049",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/049/Sucesion_R13B_v15__049.png",
+        "sha256": "0412d39f3b71edcd22aa73a0becfd099fca8adf6616e66ff96621c83313da3be",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "049/Sucesion_R13B_v28__049.md",
+      "position": 49,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-050",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/050/Sucesion_R13B_v15__050.png",
+        "sha256": "d07895f02254820fde3a1f865e77af3c8046c802505838385a250baae4359c0a",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "050/Sucesion_R13B_v28__050.md",
+      "position": 50,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-78F7941A80E7-051",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "../Sucesion_R13B_v15/051/Sucesion_R13B_v15__051.png",
+        "sha256": "4118768c760105d7092949eaa9bbde97efd82e65c7048674ef0c704c2cc71fea",
+        "storage": "reused",
+        "width": 640
+      },
+      "metadata": "051/Sucesion_R13B_v28__051.md",
+      "position": 51,
+      "source_visibility": "visible"
+    }
+  ],
+  "source_sha256": "78f7941a80e797f6f9cb5e0875ef434a51e2bf043eff12936cb46af4772c3748"
+}

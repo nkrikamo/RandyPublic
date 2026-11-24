@@ -1,0 +1,1241 @@
+{
+  "counts": {
+    "excluded": 3,
+    "hidden": 1,
+    "images": 69,
+    "physical": 73,
+    "reused_png": 0,
+    "stored_png": 69,
+    "visible": 72
+  },
+  "exporter": {
+    "dm_sans_in_pdf": true,
+    "dm_sans_resolution": "DM Sans,DM Sans 9pt",
+    "fonts_sha256": {
+      "DMSans-italic-variable.ttf": "22259c0cc8237221b80f44c76ba8d36e6bce3cda72779f5b2773643d499720ae",
+      "DMSans-variable.ttf": "8cd08d97e89c24d0aa92edd2f0f4c8ee6195eee9b7c9f154865a58b02f0c1c0d"
+    },
+    "libreoffice": "LibreOfficeDev 26.8.0.0.alpha0 2c87e51eeaa2b413ff4ae097b2705eea1995d8e5",
+    "pipeline": "LibreOffice Impress (sin ocultas ni notas) → PDF → Poppler PNG RGB 640 px",
+    "poppler": "pdftoppm version 26.05.0"
+  },
+  "presentation": "NextGen_R12_v6",
+  "revision": "v6",
+  "schema": 1,
+  "slides": [
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-001",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "001/NextGen_R12_v6__001.png",
+        "sha256": "7ef247dc02d8ea84ba99e21f65d9d4a3f132066c6b8ecf31197f12050cc66447",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "001/NextGen_R12_v6__001.md",
+      "position": 1,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-002",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "002/NextGen_R12_v6__002.png",
+        "sha256": "e16f5e6b923573985aadf12af40e392dba2c27c6062df60df7f6ff17ec06be03",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "002/NextGen_R12_v6__002.md",
+      "position": 2,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-003",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "003/NextGen_R12_v6__003.png",
+        "sha256": "024504f34c646f5f8da99b928b0a00fc8c1ec201783e0a5cdbf627fc7e8e201b",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "003/NextGen_R12_v6__003.md",
+      "position": 3,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "excluded",
+      "identity": {
+        "code": "UDS-7A69815752A0-004",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "metadata": "004/NextGen_R12_v6__004.md",
+      "position": 4,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-005",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "005/NextGen_R12_v6__005.png",
+        "sha256": "babebe612a5f55beb82a10fcc125cbb7ef258400df7781fa6fa05ef8ad213713",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "005/NextGen_R12_v6__005.md",
+      "position": 5,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-006",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "006/NextGen_R12_v6__006.png",
+        "sha256": "f457873e943721e9e472ad2316e467db27957b8a316adffe6d75fd6c7aa67e85",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "006/NextGen_R12_v6__006.md",
+      "position": 6,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-007",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "007/NextGen_R12_v6__007.png",
+        "sha256": "a7595f2e358eb5e5fcc949a181e1272d30a8155439fd5e876e5d528676656671",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "007/NextGen_R12_v6__007.md",
+      "position": 7,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "excluded",
+      "identity": {
+        "code": "UDS-7A69815752A0-008",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "metadata": "008/NextGen_R12_v6__008.md",
+      "position": 8,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "E008",
+        "provenance": "ID heredado literal"
+      },
+      "image": {
+        "height": 360,
+        "path": "009/NextGen_R12_v6__009.png",
+        "sha256": "ccd2d1281c6dfe7ab41899bcf5458374042d9a6cbbed169c25b7bd01f6fb5f99",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "009/NextGen_R12_v6__009.md",
+      "position": 9,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "E009",
+        "provenance": "ID heredado literal"
+      },
+      "image": {
+        "height": 360,
+        "path": "010/NextGen_R12_v6__010.png",
+        "sha256": "85558904b78a68ab93e42f6cb409a8ddebe53ac6ead9a7b243ecfc0a87849875",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "010/NextGen_R12_v6__010.md",
+      "position": 10,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-011",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "011/NextGen_R12_v6__011.png",
+        "sha256": "aff02a8e60d2b5c951ca2b65994a5ab0b46539335601e09eac7489bdfe785652",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "011/NextGen_R12_v6__011.md",
+      "position": 11,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "E010",
+        "provenance": "ID heredado literal"
+      },
+      "image": {
+        "height": 360,
+        "path": "012/NextGen_R12_v6__012.png",
+        "sha256": "b955ab53afebe36e0e9a05a47b0c7744dd225052ed9d6085505e7d1fa4ded691",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "012/NextGen_R12_v6__012.md",
+      "position": 12,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-013",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "013/NextGen_R12_v6__013.png",
+        "sha256": "51d53b55f52b5e2a7bce038e47b76657c703bbc808fa0daf5ff2ac18e6dd0c09",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "013/NextGen_R12_v6__013.md",
+      "position": 13,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-014",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "014/NextGen_R12_v6__014.png",
+        "sha256": "5392e3b22964d45730aee964d36ec7b9b6f08771a544b622425fd484ec61cf5d",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "014/NextGen_R12_v6__014.md",
+      "position": 14,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-015",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "015/NextGen_R12_v6__015.png",
+        "sha256": "b7d78de6b5c12aee772cfec56e00558085986d4dbab1b6f48d499cff0be57239",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "015/NextGen_R12_v6__015.md",
+      "position": 15,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-016",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "016/NextGen_R12_v6__016.png",
+        "sha256": "7f461bde9dff0db76705b992bab7ec005af3371424c12d00df0a89e8f32be93c",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "016/NextGen_R12_v6__016.md",
+      "position": 16,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-017",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "017/NextGen_R12_v6__017.png",
+        "sha256": "13a44e8d469801c18b9bc55b8b74e7be08c9c651b60a924e428f44e1d06764eb",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "017/NextGen_R12_v6__017.md",
+      "position": 17,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "E012",
+        "provenance": "ID heredado literal"
+      },
+      "image": {
+        "height": 360,
+        "path": "018/NextGen_R12_v6__018.png",
+        "sha256": "e423dca49370350b2e8290fdcf017a0821740137dddacd360b5825050b87dc53",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "018/NextGen_R12_v6__018.md",
+      "position": 18,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "E013",
+        "provenance": "ID heredado literal"
+      },
+      "image": {
+        "height": 360,
+        "path": "019/NextGen_R12_v6__019.png",
+        "sha256": "687b2a7096a018d03ad466c30b4854d0004c29dec50e2211d4aa0fd76a384e3a",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "019/NextGen_R12_v6__019.md",
+      "position": 19,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-020",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "020/NextGen_R12_v6__020.png",
+        "sha256": "1f6806d6c7a91f61fb747bfc12cd67ab41fa267aa11367059c017aa6c25aaee5",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "020/NextGen_R12_v6__020.md",
+      "position": 20,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-021",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "021/NextGen_R12_v6__021.png",
+        "sha256": "a418847be4d97c748bc4f096a50fd4ccbd5709277a4189f8de91cc6914836e34",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "021/NextGen_R12_v6__021.md",
+      "position": 21,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-022",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "022/NextGen_R12_v6__022.png",
+        "sha256": "c92b7c20d593e2d1099e6b0799702c4d602f0389e4b10de33ca37813cb0fd8d9",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "022/NextGen_R12_v6__022.md",
+      "position": 22,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-023",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "023/NextGen_R12_v6__023.png",
+        "sha256": "5b6a37d39df7fa9a8fa74f7f4d20eadc689b3bfa7468ca876fd5344770a1b7af",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "023/NextGen_R12_v6__023.md",
+      "position": 23,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-024",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "024/NextGen_R12_v6__024.png",
+        "sha256": "8d77d215ea85c2a4a9874305139711091567a6788370ffd346d83dd28e26cc66",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "024/NextGen_R12_v6__024.md",
+      "position": 24,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "E016",
+        "provenance": "ID estable literal"
+      },
+      "image": {
+        "height": 360,
+        "path": "025/NextGen_R12_v6__025.png",
+        "sha256": "e8c4c1f42991d622e4ce6f325625d9601b06643fa7c2206e74d107055d3f7a68",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "025/NextGen_R12_v6__025.md",
+      "position": 25,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "E017",
+        "provenance": "ID estable literal"
+      },
+      "image": {
+        "height": 360,
+        "path": "026/NextGen_R12_v6__026.png",
+        "sha256": "5909825a7d30d2ac908066f2d8ef1b5b573eddbdc5dc654f6f2f25feafaadd0a",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "026/NextGen_R12_v6__026.md",
+      "position": 26,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-027",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "027/NextGen_R12_v6__027.png",
+        "sha256": "49b4fa1efbe172e71cff897e8c5ed7602ae74fc6427a58d933062722531f76d8",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "027/NextGen_R12_v6__027.md",
+      "position": 27,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-028",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "028/NextGen_R12_v6__028.png",
+        "sha256": "c29eb58d930ca79f7dec4a33d5d752877a3e1c8db9ddeabaaebc67c326750d37",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "028/NextGen_R12_v6__028.md",
+      "position": 28,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-029",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "029/NextGen_R12_v6__029.png",
+        "sha256": "f4d3ba0a9727db0c8b6f2ef5316f61d7cd021ec6deaa9031df886c8931fa294d",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "029/NextGen_R12_v6__029.md",
+      "position": 29,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-030",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "030/NextGen_R12_v6__030.png",
+        "sha256": "202eadf91f7d623ba4e2ded0c268ef7fdce73e1f2f0943beec0a54762eec3c5c",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "030/NextGen_R12_v6__030.md",
+      "position": 30,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-031",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "031/NextGen_R12_v6__031.png",
+        "sha256": "fd68d6ce826c1f5f9ab84d5da2e7b5aac776cd16dd3af2a04c675280c8ce6457",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "031/NextGen_R12_v6__031.md",
+      "position": 31,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "E020",
+        "provenance": "ID estable literal"
+      },
+      "image": {
+        "height": 360,
+        "path": "032/NextGen_R12_v6__032.png",
+        "sha256": "8ab5cfe59c9d8eee96377a6c159290163d3c60f4598c46aae06e37f3cb1a28e2",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "032/NextGen_R12_v6__032.md",
+      "position": 32,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "E021",
+        "provenance": "ID estable literal"
+      },
+      "image": {
+        "height": 360,
+        "path": "033/NextGen_R12_v6__033.png",
+        "sha256": "d694d8eeaf5125d9c56c8ce74da1468a264ee4a074d110b49644c204b03670de",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "033/NextGen_R12_v6__033.md",
+      "position": 33,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-034",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "034/NextGen_R12_v6__034.png",
+        "sha256": "05843d9679dfa6ff89b9dcad71b9ea438525ed63baff35d3ee19916ca215a264",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "034/NextGen_R12_v6__034.md",
+      "position": 34,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-035",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "035/NextGen_R12_v6__035.png",
+        "sha256": "a7c6e5ba9a8478c96f950b0bddebd2aaebfd6361da81386732f84b57c4e6db29",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "035/NextGen_R12_v6__035.md",
+      "position": 35,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-036",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "036/NextGen_R12_v6__036.png",
+        "sha256": "7e21c4d4f7727202ddec3c42fd118cf666854073bd629eda5d79581f583a31ca",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "036/NextGen_R12_v6__036.md",
+      "position": 36,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-037",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "037/NextGen_R12_v6__037.png",
+        "sha256": "6c59b354aaf26635b25b10d90d0772905dd09332d1d1796e14606f2821ec400b",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "037/NextGen_R12_v6__037.md",
+      "position": 37,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-038",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "038/NextGen_R12_v6__038.png",
+        "sha256": "ef7c36f1d953c0de6cda6d48986a2ffce7b6263d8324dc613b712402b28812e1",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "038/NextGen_R12_v6__038.md",
+      "position": 38,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-039",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "039/NextGen_R12_v6__039.png",
+        "sha256": "b8d711a533a6d06489bdfd581b627f42bf41366afa1f19a7c663089db24e1388",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "039/NextGen_R12_v6__039.md",
+      "position": 39,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-040",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "040/NextGen_R12_v6__040.png",
+        "sha256": "a6372e5930d5b97c37d3f73b553d4602260d4c9e678f740ec0f8cb8d6ca29d84",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "040/NextGen_R12_v6__040.md",
+      "position": 40,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-041",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "041/NextGen_R12_v6__041.png",
+        "sha256": "66fdf4eb2edd6b544a374eb36a5d9e0b3bd63560f4d12e0a442d08179710572c",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "041/NextGen_R12_v6__041.md",
+      "position": 41,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-042",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "042/NextGen_R12_v6__042.png",
+        "sha256": "d7210ddd4ac7a6d253ba644c2ec912dfe82bef5a2b0017106290e3649815cb11",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "042/NextGen_R12_v6__042.md",
+      "position": 42,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "excluded",
+      "identity": {
+        "code": "UDS-7A69815752A0-043",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "metadata": "043/NextGen_R12_v6__043.md",
+      "position": 43,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-044",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "044/NextGen_R12_v6__044.png",
+        "sha256": "6221ecf20e401e359cde9e932b1d30b926ff4afcdb95170792fc2624d1945c7d",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "044/NextGen_R12_v6__044.md",
+      "position": 44,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-045",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "045/NextGen_R12_v6__045.png",
+        "sha256": "5fe24911bb495a05e255bef23d8fa0bf16480ecc6fe53afae8f800b1fd6ba41c",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "045/NextGen_R12_v6__045.md",
+      "position": 45,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-046",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "046/NextGen_R12_v6__046.png",
+        "sha256": "256b0a3697f20594e2f014b8dd15349af7341cc9433a0dbbb82b71448d7c5632",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "046/NextGen_R12_v6__046.md",
+      "position": 46,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-047",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "047/NextGen_R12_v6__047.png",
+        "sha256": "6ea1db8dd4e6f049defb47e94a9c821e0f1d180eb7866408c43503ab39658af1",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "047/NextGen_R12_v6__047.md",
+      "position": 47,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "hidden",
+      "identity": {
+        "code": "UDS-7A69815752A0-048",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "metadata": "048/NextGen_R12_v6__048.md",
+      "position": 48,
+      "source_visibility": "hidden"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-049",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "049/NextGen_R12_v6__049.png",
+        "sha256": "3af75d1ac4b7f11fde672afca5a2b3aaa1b5bfc7db489b3f39464b2ad2f53467",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "049/NextGen_R12_v6__049.md",
+      "position": 49,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-050",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "050/NextGen_R12_v6__050.png",
+        "sha256": "8093b4a0248acdbe27fac6043d6ff2ef4187014e91a1a20b6ed47685066f89dc",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "050/NextGen_R12_v6__050.md",
+      "position": 50,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-051",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "051/NextGen_R12_v6__051.png",
+        "sha256": "b0160b8ad0cb19308b371fcaa9bd452c7f1bbdf82768b0cfc4e07395a617f8b1",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "051/NextGen_R12_v6__051.md",
+      "position": 51,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-052",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "052/NextGen_R12_v6__052.png",
+        "sha256": "41731af3c94bd1b95f10bc29045b05e184aee64474c13733a67a3a9d5172049b",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "052/NextGen_R12_v6__052.md",
+      "position": 52,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-053",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "053/NextGen_R12_v6__053.png",
+        "sha256": "ad06ff0d617ba19915d6a6eb82b6d22cb93f5b570bf861bafcfbb6a23f6a2a8d",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "053/NextGen_R12_v6__053.md",
+      "position": 53,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-054",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "054/NextGen_R12_v6__054.png",
+        "sha256": "e952105fe830aae0869d88c1ec41b4bedfe42fa2d0c282c05056bcee577210b5",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "054/NextGen_R12_v6__054.md",
+      "position": 54,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-055",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "055/NextGen_R12_v6__055.png",
+        "sha256": "56a554afab11f5b0013f26ec08ef1d5194f2c4e1957ef5f4835156dbdd4c76af",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "055/NextGen_R12_v6__055.md",
+      "position": 55,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-056",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "056/NextGen_R12_v6__056.png",
+        "sha256": "0dcd2c6f51b99a166a932733d89b50140724505922955292ce713a76534d2a9f",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "056/NextGen_R12_v6__056.md",
+      "position": 56,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-057",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "057/NextGen_R12_v6__057.png",
+        "sha256": "b7971b4c32429db78f9d2627bec38f72f68daec2efffb75a9e36d9aa03deb880",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "057/NextGen_R12_v6__057.md",
+      "position": 57,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-058",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "058/NextGen_R12_v6__058.png",
+        "sha256": "c4392bc55b614d1b0294564fa8804f821aeab9b0de5bb1ea36fe2d31c4f70797",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "058/NextGen_R12_v6__058.md",
+      "position": 58,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-059",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "059/NextGen_R12_v6__059.png",
+        "sha256": "2051e6b71e900d46f19f6712937c31e45bed060843240c445b80aa9bb2a44951",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "059/NextGen_R12_v6__059.md",
+      "position": 59,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-060",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "060/NextGen_R12_v6__060.png",
+        "sha256": "0c34537a61e95981204a26b794f3fb5ae1ce35ae8f0f8ff8786d4682532d9158",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "060/NextGen_R12_v6__060.md",
+      "position": 60,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-061",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "061/NextGen_R12_v6__061.png",
+        "sha256": "68d215c0ac40815ec23f6b7cfdcd53c98003aca9684351e3a0d9a2865e8cbede",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "061/NextGen_R12_v6__061.md",
+      "position": 61,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-062",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "062/NextGen_R12_v6__062.png",
+        "sha256": "2696d5cc8a8040a6ef0f00a3ac154bf3b38da0bd0ef3c53c0472b87d3c46fcab",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "062/NextGen_R12_v6__062.md",
+      "position": 62,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-063",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "063/NextGen_R12_v6__063.png",
+        "sha256": "6c15ee4d102febbe7aa44b97cedca7817d7e041bb835d9c536846291f65ec665",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "063/NextGen_R12_v6__063.md",
+      "position": 63,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-064",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "064/NextGen_R12_v6__064.png",
+        "sha256": "cf2fc574f82d98b0e51738066f847fe0f5c065187679c79adbd8411ed81d8323",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "064/NextGen_R12_v6__064.md",
+      "position": 64,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-065",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "065/NextGen_R12_v6__065.png",
+        "sha256": "fa502226c9f3543e206cbb619898540bd862db0c19a3ae74642a69eaba8ff452",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "065/NextGen_R12_v6__065.md",
+      "position": 65,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-066",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "066/NextGen_R12_v6__066.png",
+        "sha256": "787eae2d47611bbbf7e2019ee1715970d0bd43bdf5a695787e9961a023df2b31",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "066/NextGen_R12_v6__066.md",
+      "position": 66,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-067",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "067/NextGen_R12_v6__067.png",
+        "sha256": "374472e690769ca09f7a0ba217cab8c5f94ce9ce6eb0eb595f4f84db5c802e3a",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "067/NextGen_R12_v6__067.md",
+      "position": 67,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-068",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "068/NextGen_R12_v6__068.png",
+        "sha256": "f73f45bd360167ab65ef88c8a2dd7d7fdf8797ea14bb5c41d7adb5791f879bd8",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "068/NextGen_R12_v6__068.md",
+      "position": 68,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-069",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "069/NextGen_R12_v6__069.png",
+        "sha256": "69f911799443c3245e3b593a283635f6f5c206ae278b7e70aacb806ec25db378",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "069/NextGen_R12_v6__069.md",
+      "position": 69,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-070",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "070/NextGen_R12_v6__070.png",
+        "sha256": "dc71927548a9c19ec1a96dac9b4b255d4a4f692f88a16fb85bf9615061199eed",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "070/NextGen_R12_v6__070.md",
+      "position": 70,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-071",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "071/NextGen_R12_v6__071.png",
+        "sha256": "d421d93aa6d36ceddc7662a787f25503d7913368cd1b7108b8344612869f32cd",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "071/NextGen_R12_v6__071.md",
+      "position": 71,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-072",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "072/NextGen_R12_v6__072.png",
+        "sha256": "e6afaaddb2248022e3524048277ad9bd148287c4666a19b22b354b7e655e607c",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "072/NextGen_R12_v6__072.md",
+      "position": 72,
+      "source_visibility": "visible"
+    },
+    {
+      "export_status": "prepared",
+      "identity": {
+        "code": "UDS-7A69815752A0-073",
+        "provenance": "ID de seguimiento generado; no equivale a un ID editorial de Randy"
+      },
+      "image": {
+        "height": 360,
+        "path": "073/NextGen_R12_v6__073.png",
+        "sha256": "2431e22d17e77ebd97b6d31cf14f254746e7dee640c324d1e3009cb81aba92b3",
+        "storage": "stored",
+        "width": 640
+      },
+      "metadata": "073/NextGen_R12_v6__073.md",
+      "position": 73,
+      "source_visibility": "visible"
+    }
+  ],
+  "source_sha256": "7a69815752a0187f932c52349fe710e1d55c1190b393cd9cccf9a9c67b0da430"
+}
