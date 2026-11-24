@@ -1,5 +1,15 @@
 # UniversoDeSlides · índice de Sucesión
 
+<!-- universo-revisiones-inicio -->
+
+[Índice de revisiones exportadas](REVISIONES_EXPORTADAS.md).
+
+- [Sucesion R13B v63](Sucesion_R13B_v63/README.md) · 53 miniaturas de 56 posiciones.
+- [R13B Addendum v7](R13B_Addendum_v7/README.md) · 20 miniaturas de 21 posiciones.
+- [Sucesion R14 v2](Sucesion_R14_v2/README.md) · 34 miniaturas de 39 posiciones.
+
+<!-- universo-revisiones-fin -->
+
 ## Presentaciones canónicas
 
 - [R15-ConJorge v6 · 66 posiciones, 63 miniaturas y 3 ocultas](Sucesion_R15-ConJorge/README.md)
