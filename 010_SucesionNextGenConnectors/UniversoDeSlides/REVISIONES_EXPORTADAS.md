@@ -37,6 +37,7 @@ El número de posición corresponde a cada revisión del PPTX. Dos revisiones pu
 | [Sucesion R13B v25](Sucesion_R13B_v25/README.md) | 51 | 51 | 0 | 0 |
 | [Sucesion R13B v24](Sucesion_R13B_v24/README.md) | 51 | 51 | 0 | 0 |
 | [Sucesion R13B v20](Sucesion_R13B_v20/README.md) | 51 | 51 | 0 | 0 |
+| [Sucesion R13B v19](Sucesion_R13B_v19/README.md) | 51 | 51 | 0 | 0 |
 | [Sucesion R13B v16](Sucesion_R13B_v16/README.md) | 51 | 51 | 0 | 0 |
 | [Sucesion R13B v15](Sucesion_R13B_v15/README.md) | 51 | 51 | 0 | 0 |
 | [Sucesion R13B v14](Sucesion_R13B_v14/README.md) | 51 | 51 | 0 | 0 |
