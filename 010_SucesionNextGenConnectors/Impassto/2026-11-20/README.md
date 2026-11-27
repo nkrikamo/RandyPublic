@@ -24,21 +24,21 @@ Escala 0–100%, salvo Anti máscara Phi: 0–150%. La diversidad describe varie
 
 Responsable de las puntuaciones: **Randy**. Fuente: formularios enviados en esta conversación, identificados por número de imagen, filename público y nombre original resubido. Las estimaciones anteriores de Sammy se conservan en la tabla precedente.
 
-**Recibidos: 4 de 6 formularios (36 de 54 valores).** Imágenes 2, 4, 5 y 6 completas; imágenes 1 y 3 pendientes. «Pendiente» no significa cero ni aprobación. El 0% de Contornos Elefante en la imagen 2 es un valor explícito de Randy.
+**Recibidos: 5 de 6 formularios (45 de 54 valores).** Imágenes 1, 2, 4, 5 y 6 completas; imagen 3 pendiente. «Pendiente» no significa cero ni aprobación. El 0% de Contornos Elefante en la imagen 2 es un valor explícito de Randy.
 
 Se conserva el esquema histórico de esta ronda: nueve campos, escalas 0–100% salvo Anti máscara Phi 0–150%. Estas observaciones no reintroducen controles antiguos, no se convierten automáticamente al esquema vigente de Impassto y no cambian los valores por defecto actuales. No constituyen aprobación global de las imágenes. Instrucción de Randy: **no regenerar todavía**.
 
 | Slider | 1 | 2 | 3 | 4 | 5 | 6 |
 |---|---:|---:|---:|---:|---:|---:|
-| Contornos Elefante | Pendiente | 0% | Pendiente | 10% | 40% | 10% |
-| Desdibujado | Pendiente | 10% | Pendiente | 5% | 30% | 20% |
-| Pintura digital | Pendiente | 20% | Pendiente | 50% | 40% | 70% |
-| Claroscuros | Pendiente | 15% | Pendiente | 20% | 10% | 10% |
-| Gradado tonal | Pendiente | 15% | Pendiente | 40% | 40% | 50% |
-| Textura de pincel | Pendiente | 85% | Pendiente | 80% | 50% | 70% |
-| Diversidad guatemalteca | Pendiente | 45% | Pendiente | 20% | 20% | 30% |
-| Anti máscara Phi | Pendiente | 20% | Pendiente | 10% | 10% | 10% |
-| Variedad de edad | Pendiente | 30% | Pendiente | 20% | 20% | 35% |
+| Contornos Elefante | 5% | 0% | Pendiente | 10% | 40% | 10% |
+| Desdibujado | 5% | 10% | Pendiente | 5% | 30% | 20% |
+| Pintura digital | 40% | 20% | Pendiente | 50% | 40% | 70% |
+| Claroscuros | 10% | 15% | Pendiente | 20% | 10% | 10% |
+| Gradado tonal | 50% | 15% | Pendiente | 40% | 40% | 50% |
+| Textura de pincel | 70% | 85% | Pendiente | 80% | 50% | 70% |
+| Diversidad guatemalteca | 20% | 45% | Pendiente | 20% | 20% | 30% |
+| Anti máscara Phi | 10% | 20% | Pendiente | 10% | 10% | 10% |
+| Variedad de edad | 25% | 30% | Pendiente | 20% | 20% | 35% |
 
 ## 1. Criterio en acción — hombre sin gafas
 
