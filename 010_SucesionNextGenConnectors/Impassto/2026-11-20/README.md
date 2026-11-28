@@ -24,21 +24,41 @@ Escala 0–100%, salvo Anti máscara Phi: 0–150%. La diversidad describe varie
 
 Responsable de las puntuaciones: **Randy**. Fuente: formularios enviados en esta conversación, identificados por número de imagen, filename público y nombre original resubido. Las estimaciones anteriores de Sammy se conservan en la tabla precedente.
 
-**Recibidos: 5 de 6 formularios (45 de 54 valores).** Imágenes 1, 2, 4, 5 y 6 completas; imagen 3 pendiente. «Pendiente» no significa cero ni aprobación. El 0% de Contornos Elefante en la imagen 2 es un valor explícito de Randy.
+**Recibidos: 6 de 6 formularios (54 de 54 valores).** Las seis imágenes tienen sus nueve puntuaciones completas. El 0% de Contornos Elefante en la imagen 2 y el 0% de Claroscuros en la imagen 3 son valores explícitos de Randy; no son campos pendientes ni aprobación.
 
 Se conserva el esquema histórico de esta ronda: nueve campos, escalas 0–100% salvo Anti máscara Phi 0–150%. Estas observaciones no reintroducen controles antiguos, no se convierten automáticamente al esquema vigente de Impassto y no cambian los valores por defecto actuales. No constituyen aprobación global de las imágenes. Instrucción de Randy: **no regenerar todavía**.
 
 | Slider | 1 | 2 | 3 | 4 | 5 | 6 |
 |---|---:|---:|---:|---:|---:|---:|
-| Contornos Elefante | 5% | 0% | Pendiente | 10% | 40% | 10% |
-| Desdibujado | 5% | 10% | Pendiente | 5% | 30% | 20% |
-| Pintura digital | 40% | 20% | Pendiente | 50% | 40% | 70% |
-| Claroscuros | 10% | 15% | Pendiente | 20% | 10% | 10% |
-| Gradado tonal | 50% | 15% | Pendiente | 40% | 40% | 50% |
-| Textura de pincel | 70% | 85% | Pendiente | 80% | 50% | 70% |
-| Diversidad guatemalteca | 20% | 45% | Pendiente | 20% | 20% | 30% |
-| Anti máscara Phi | 10% | 20% | Pendiente | 10% | 10% | 10% |
-| Variedad de edad | 25% | 30% | Pendiente | 20% | 20% | 35% |
+| Contornos Elefante | 5% | 0% | 5% | 10% | 40% | 10% |
+| Desdibujado | 5% | 10% | 15% | 5% | 30% | 20% |
+| Pintura digital | 40% | 20% | 40% | 50% | 40% | 70% |
+| Claroscuros | 10% | 15% | 0% | 20% | 10% | 10% |
+| Gradado tonal | 50% | 15% | 30% | 40% | 40% | 50% |
+| Textura de pincel | 70% | 85% | 50% | 80% | 50% | 70% |
+| Diversidad guatemalteca | 20% | 45% | 40% | 20% | 20% | 30% |
+| Anti máscara Phi | 10% | 20% | 15% | 10% | 10% | 10% |
+| Variedad de edad | 25% | 30% | 40% | 20% | 20% | 35% |
+
+## Comparación de percepciones · 2026-11-27
+
+Cálculo de Sammy a partir de las seis parejas de puntuaciones anteriores. La diferencia es **Sammy menos Randy**, expresada en puntos de la escala histórica de cada slider. Es una descripción de esta muestra: no es un factor universal de corrección ni un preset.
+
+| Slider | Media de Sammy | Media de Randy | Diferencia media, puntos |
+|---|---:|---:|---:|
+| Contornos Elefante | 43,3% | 11,7% | +31,7 |
+| Desdibujado | 25,8% | 14,2% | +11,7 |
+| Pintura digital | 76,7% | 43,3% | +33,3 |
+| Claroscuros | 47,5% | 10,8% | +36,7 |
+| Gradado tonal | 65,8% | 37,5% | +28,3 |
+| Textura de pincel | 76,7% | 67,5% | +9,2 |
+| Diversidad guatemalteca | 50,8% | 29,2% | +21,7 |
+| Anti máscara Phi | 56,7% | 12,5% | +44,2 |
+| Variedad de edad | 41,7% | 28,3% | +13,3 |
+
+Sammy puntuó por encima de Randy en **48 de 54** comparaciones, coincidió en **5** y quedó por debajo en **1**. En puntos sin normalizar, las mayores diferencias medias corresponden a Anti máscara Phi, Claroscuros y Pintura digital. Phi usa la escala histórica 0–150 y los otros controles 0–100; este orden no compara errores relativos normalizados. Las mayores diferencias individuales son 55 puntos: Pintura digital en la imagen 2 (75% → 20%) y Anti máscara Phi en la imagen 3 (70% → 15%).
+
+Para las seis imágenes identificadas en esta ronda, la lectura de referencia es la puntuación explícita de Randy. Las estimaciones iniciales de Sammy se conservan como antecedente para comparar. Estas seis observaciones por slider no fijan una fórmula general ni el nivel deseado para futuras generaciones.
 
 ## 1. Criterio en acción — hombre sin gafas
 
